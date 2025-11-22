@@ -13,10 +13,13 @@
 
 <img width="290" height="185" alt="WowB_2025-11-23_00-24-56" src="https://github.com/user-attachments/assets/19f01e20-7746-4962-940e-4b2f0ee82c23" />
 
+Now you can actually see what health the player is at!
+
 ## After removing the gradient + fill 
 
 <img width="294" height="177" alt="WowB_2025-11-23_00-25-02" src="https://github.com/user-attachments/assets/516f1e1b-cf45-4a1f-970d-318f8874e09e" />
 
+Ignore this file if you still like the gradient
 ## It still has a border
 
 
