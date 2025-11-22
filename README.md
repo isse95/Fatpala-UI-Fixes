@@ -1,4 +1,4 @@
-# Place in your `World of Warcraft\_beta_\Interface` folder
+# Place in your `World of Warcraft\_beta_\Interface` folder (or `_retail_` if that game version is 12.0.0 or greater
 # EDIT MODE
 `EDITMODE` folder removes the Blue or Yellow if highlighted background for UI elements in Edit Mode
 <img width="525" height="337" alt="WowB_2025-11-23_00-22-15" src="https://github.com/user-attachments/assets/1f2982a7-52ea-448f-95d6-9e2e50d1b52f" />
